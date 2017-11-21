@@ -45,7 +45,7 @@ public class Inicio {
            System.out.println("2-Añadir Participantes");
            System.out.println("3-Añadir puntos");
            System.out.println("4-Ver jugadores");
-           System.out.println("5-Salir);
+           System.out.println("5-Salir");
            System.out.println("_____________________________________________");
            
                       
